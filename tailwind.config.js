@@ -1,9 +1,9 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: [],
+  content: ["./src/**/*.{js,jsx,ts,tsx,css}"],
   theme: {
     extend: {},
   },
-  plugins: [],
+  plugins: [require("daisyui")], // ✅ DaisyUI প্লাগইন যোগ করুন
 }
 
