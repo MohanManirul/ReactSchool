@@ -1,16 +1,16 @@
 # React + Vite + DaisyUI + Laravel APi
 
 Installation Guide
-
-1. cd my-project
-2. npm i
-3. npm install -D tailwindcss@3 postcss autoprefixer
-4. npx tailwindcss init -p
+1. git clone [Repository Link ]
+2. cd my-project
+3. npm i
+4. npm install -D tailwindcss@3 postcss autoprefixer
+5. npx tailwindcss init -p
 
 এখন DaisyUI ইনস্টল করুন:
-5. npm install daisyui
+6. npm install daisyui
 
-6. npm run dev
+7. npm run dev
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
