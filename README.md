@@ -1,3 +1,4 @@
+Student Login, Registration , Dashboard , Profile
 # React + Vite + DaisyUI + Laravel APi
 
 Installation Guide
